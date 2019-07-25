@@ -1,0 +1,11 @@
+{
+    "name": "discord-bot",
+    "description": "a really cool app",
+    "version": "0.0.2",
+    "engines": {
+      "node": "10.15.3"
+    },
+    "dependencies": {
+      "discord.js": "^11.5.1"
+    }
+  }
